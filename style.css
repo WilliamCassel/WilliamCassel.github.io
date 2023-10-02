@@ -1,0 +1,49 @@
+
+
+
+h1 {
+    color: #009A44;
+}
+
+table{
+    
+}
+
+#info{
+    line-height: 1.5em;
+}
+
+a{
+    text-decoration:none;
+    color: #00A3E0; /*gulf blue*/
+}
+
+a:hover{
+    color:#009A44;
+}
+
+body{
+    background-color: beige;
+    padding-left:120px;
+}
+
+
+h2{
+    color:#009A44; /*irish green*/
+    boder-bottom: 1px solid;
+    margin-top:1.5em;
+}
+
+
+.sidebar{
+    position:fixed;
+    top:0;
+    left:0;
+    background-color:bisque;
+    height:100%;
+    width:100px;
+    font-size:1.2em;
+    line-height: 1.5em;
+    padding-top:20px;
+    padding-left:18px;
+}
